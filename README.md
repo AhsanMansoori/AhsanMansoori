@@ -1,88 +1,65 @@
-<h1 align="center">Hi 👋, I'm Ahsan Mansoori</h1>
-<h3 align="center">A passionate developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif" />
+<h1 align="center">Hi, I'm Ahsan Mansoori 👋</h1>
+<h3 align="center">Full Stack Developer · React & Next.js Specialist · Figma to Code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsanmansoori&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
-
----
-
-### 📫 How to reach me  
-Email: <a href="mailto:ahsanmansoori906@gmail.com">ahsanmansoori906@gmail.com</a>
-
----
-
-### 🔗 Connect with me  
-<p align="left">
-  <a href="https://fb.com/ahsanmansoori" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/ahsu_mansoori" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-  </a>
+<p align="center">
+  <a href="mailto:ahsanmansoori906@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">💼 LinkedIn</a> •
+  <a href="https://YOUR-PORTFOLIO.com">🌐 Portfolio</a>
 </p>
 
 ---
 
-### 🛠 Languages and Tools  
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react-native" width="40" height="40" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  </a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://supabase.io/new-icon.svg" alt="supabase" width="40" height="40" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" />
-  </a>
+## 🚀 About Me
+
+I'm a Full Stack Developer based in Karachi, Pakistan, specializing in building
+fast, scalable web applications with React, Next.js, and Node.js. I love turning
+Figma designs into pixel-perfect, responsive interfaces.
+
+- 🔭 Currently building: **[omnitools-converter](https://github.com/AhsanMansoori/omnitools-converter)** — a professional file converter with Next.js 14
+- 💬 Ask me about: **React, Next.js, Node.js, MongoDB, Tailwind CSS**
+- 📫 Reach me at: **ahsanmansoori906@gmail.com**
+- 🤝 Open to freelance & full-time opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Design & Tools**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [omnitools-converter](https://github.com/AhsanMansoori/omnitools-converter) | Professional file converter app | Next.js 14, TypeScript |
+| [Multi-Vendor E-commerce](https://github.com/AhsanMansoori) | Full e-commerce with cart, checkout & admin | MERN Stack |
+| [Job Board Website](https://github.com/AhsanMansoori) | Job posting & application platform | Next.js, MongoDB |
+| [Food Ordering System](https://github.com/AhsanMansoori) | Online food ordering with backend API | Next.js, Node.js |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahsanmansoori&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanmansoori&layout=compact&theme=github_dark&hide_border=true" width="48%"/>
 </p>
 
 ---
 
-### 🚀 Projects  
-- **Multi-Vendor E-commerce Website** — MERN stack e-commerce with cart, checkout & admin panel.  
-- **Online Food Ordering System** — Next.js frontend + Node.js backend, MongoDB database.  
-- **React Admin Dashboard** — Modern dashboard with charts and analytics.  
-- **Restaurant/Food Delivery Landing Page** — Next.js + Tailwind CSS, fully responsive.  
-- **Job Board Website** — Next.js + Tailwind + MongoDB with job posting & application features.
-
----
-
-### 📊 GitHub Stats  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsanmansoori&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahsanmansoori&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanmansoori&" alt="GitHub Streak" /></p>
+<p align="center">⭐ If you like my work, consider giving my repos a star!</p>
