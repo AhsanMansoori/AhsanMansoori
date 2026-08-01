@@ -9,23 +9,21 @@ Building scalable SaaS applications, AI-powered products, and modern web experie
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=AhsanMansoori&style=for-the-badge"/>
-
+<img src="https://komarev.com/ghpvc/?username=AhsanMansoori&style=for-the-badge" />
 </p>
 
 <p align="center">
 
 <a href="mailto:ahsanmansoori906@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://YOUR-PORTFOLIO.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
 </a>
 
 </p>
@@ -34,9 +32,9 @@ Building scalable SaaS applications, AI-powered products, and modern web experie
 
 # 🚀 About Me
 
-I'm a Full Stack Software Engineer from **Karachi, Pakistan** passionate about building scalable SaaS platforms and AI-powered products.
+I'm a Full Stack Software Engineer from **Karachi, Pakistan**, passionate about building scalable SaaS applications and AI-powered products.
 
-I enjoy solving complex engineering problems, designing clean architectures, and turning ambitious product ideas into production-ready software.
+I enjoy solving engineering problems, designing clean architectures, and transforming ambitious ideas into production-ready software.
 
 ### 🔭 Currently Building
 
@@ -47,8 +45,8 @@ I enjoy solving complex engineering problems, designing clean architectures, and
 
 - AI Product Engineering
 - SaaS Architecture
-- System Design
 - Multi-Tenant Systems
+- System Design
 - AI Agent Workflows
 
 ### 💬 Ask Me About
@@ -63,7 +61,7 @@ I enjoy solving complex engineering problems, designing clean architectures, and
 
 📫 **Email:** ahsanmansoori906@gmail.com
 
-🤝 Open to **Freelance**, **Remote**, and **Full-Time** opportunities.
+🤝 Open to Freelance, Remote & Full-Time Opportunities.
 
 ---
 
@@ -71,7 +69,7 @@ I enjoy solving complex engineering problems, designing clean architectures, and
 
 ## 🚀 Flair AI *(Private • In Development)*
 
-AI-powered multilingual content creation SaaS for freelancers, agencies, marketers, and businesses.
+AI-powered multilingual content creation platform for freelancers, agencies, marketers, and businesses.
 
 ### Features
 
@@ -83,7 +81,7 @@ AI-powered multilingual content creation SaaS for freelancers, agencies, markete
 - Future AI Video Generation
 - Social Publishing
 
-**Tech**
+**Stack**
 
 - Next.js
 - TypeScript
@@ -94,9 +92,9 @@ AI-powered multilingual content creation SaaS for freelancers, agencies, markete
 
 ## 🏪 Multi-Tenant SaaS Platform *(Private • In Development)*
 
-Shopify-inspired SaaS platform with tenant provisioning, theme management, isolated databases, authentication, and scalable architecture.
+Shopify-inspired SaaS platform featuring tenant provisioning, isolated databases, themes, authentication, and scalable architecture.
 
-**Tech**
+**Stack**
 
 - Laravel
 - PHP
@@ -109,25 +107,25 @@ Shopify-inspired SaaS platform with tenant provisioning, theme management, isola
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
 ---
@@ -138,9 +136,9 @@ Shopify-inspired SaaS platform with tenant provisioning, theme management, isola
 |----------|-------------|
 | 🚀 **Flair AI** *(Private)* | AI-powered multilingual SaaS platform |
 | 🏪 **Multi-Tenant SaaS Platform** *(Private)* | Shopify-inspired SaaS architecture |
-| 🛒 **Multi-Vendor E-commerce** | MERN-based eCommerce platform |
-| 💼 **Job Board Website** | Job portal with authentication |
-| 🍔 **Food Ordering System** | Online ordering platform |
+| 🛒 **Multi-Vendor E-commerce** | MERN Stack |
+| 💼 **Job Board Website** | Next.js Job Portal |
+| 🍔 **Food Ordering System** | Full Stack Ordering Platform |
 
 ---
 
@@ -155,7 +153,7 @@ Shopify-inspired SaaS platform with tenant provisioning, theme management, isola
 
 ---
 
-# 📈 GitHub Statistics
+# 📈 GitHub Stats
 
 <p align="center">
 
@@ -177,11 +175,21 @@ Shopify-inspired SaaS platform with tenant provisioning, theme management, isola
 
 ---
 
-# 📊 Contribution Activity
+# 📊 GitHub Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhsanMansoori&theme=github-dark&hide_border=true"/>
+<img src="https://ghchart.rshah.org/409ba5/AhsanMansoori" alt="GitHub Contribution Graph"/>
+
+</p>
+
+---
+
+# 📈 GitHub Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhsanMansoori&theme=github_dark"/>
 
 </p>
 
@@ -202,10 +210,10 @@ Shopify-inspired SaaS platform with tenant provisioning, theme management, isola
 
 - 🚀 Launch Flair AI MVP
 - 🏪 Launch Multi-Tenant SaaS Platform
-- 🤖 Build production-ready AI applications
+- 🤖 Build Production AI Applications
 - 🌍 Contribute to Open Source
 - 📚 Master System Design
-- 💼 Build impactful SaaS products
+- 💼 Build World-Class SaaS Products
 
 ---
 
@@ -237,6 +245,6 @@ Shopify-inspired SaaS platform with tenant provisioning, theme management, isola
 
 <p align="center">
 
-⭐ If you enjoy my work, consider following my journey as I build AI-powered SaaS products and modern web applications.
+⭐ Thanks for visiting my profile! I'm passionate about building AI-powered SaaS products, scalable software, and modern web applications.
 
 </p>
