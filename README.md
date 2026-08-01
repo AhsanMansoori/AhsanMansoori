@@ -5,21 +5,29 @@ Full Stack Software Engineer • AI SaaS Builder • Next.js • Laravel • Rea
 </h3>
 
 <p align="center">
-I build scalable SaaS applications, AI-powered products, and modern web experiences.
+Building scalable SaaS applications, AI-powered products, and modern web experiences.
 </p>
 
 <p align="center">
-  <a href="mailto:ahsanmansoori906@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ahsanmansoori906%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
+<img src="https://komarev.com/ghpvc/?username=AhsanMansoori&style=for-the-badge"/>
 
-  <a href="https://YOUR-PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
-  </a>
+</p>
+
+<p align="center">
+
+<a href="mailto:ahsanmansoori906@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://YOUR-PORTFOLIO.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
@@ -28,13 +36,34 @@ I build scalable SaaS applications, AI-powered products, and modern web experien
 
 I'm a Full Stack Software Engineer from **Karachi, Pakistan** passionate about building scalable SaaS platforms and AI-powered products.
 
-I enjoy designing clean architectures, building reusable frontend systems, and transforming product ideas into production-ready software.
+I enjoy solving complex engineering problems, designing clean architectures, and turning ambitious product ideas into production-ready software.
 
-- 🔭 Currently building **Flair AI** *(Private)*
-- 🏪 Building a **Multi-Tenant SaaS Platform** *(Private)*
-- 🌱 Currently learning **AI Engineering, SaaS Architecture & System Design**
-- 💬 Ask me about **Next.js, React, TypeScript, Laravel, Node.js & Tailwind CSS**
-- 🤝 Open to freelance and full-time opportunities
+### 🔭 Currently Building
+
+- 🚀 **Flair AI** *(Private • AI SaaS Platform)*
+- 🏪 **Multi-Tenant SaaS Platform** *(Private • Laravel)*
+
+### 🌱 Currently Learning
+
+- AI Product Engineering
+- SaaS Architecture
+- System Design
+- Multi-Tenant Systems
+- AI Agent Workflows
+
+### 💬 Ask Me About
+
+- React
+- Next.js
+- TypeScript
+- Laravel
+- Node.js
+- Tailwind CSS
+- SaaS Architecture
+
+📫 **Email:** ahsanmansoori906@gmail.com
+
+🤝 Open to **Freelance**, **Remote**, and **Full-Time** opportunities.
 
 ---
 
@@ -42,19 +71,19 @@ I enjoy designing clean architectures, building reusable frontend systems, and t
 
 ## 🚀 Flair AI *(Private • In Development)*
 
-AI-powered multilingual content creation SaaS focused on freelancers, agencies, marketers and businesses.
+AI-powered multilingual content creation SaaS for freelancers, agencies, marketers, and businesses.
 
-### Planned Features
+### Features
 
 - AI Text Generation
 - AI Image Generation
 - Content Library
-- AI Workflows
+- AI Workflow
 - Multi-language Support
-- Future AI Video
+- Future AI Video Generation
 - Social Publishing
 
-**Tech Stack**
+**Tech**
 
 - Next.js
 - TypeScript
@@ -65,14 +94,13 @@ AI-powered multilingual content creation SaaS focused on freelancers, agencies, 
 
 ## 🏪 Multi-Tenant SaaS Platform *(Private • In Development)*
 
-Shopify-inspired SaaS platform built with Laravel featuring tenant isolation, theme management, authentication, and scalable architecture.
+Shopify-inspired SaaS platform with tenant provisioning, theme management, isolated databases, authentication, and scalable architecture.
 
-**Tech Stack**
+**Tech**
 
 - Laravel
 - PHP
 - MySQL
-- Multi-Tenant Architecture
 
 ---
 
@@ -81,63 +109,59 @@ Shopify-inspired SaaS platform built with Laravel featuring tenant isolation, th
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express"/>
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
 </p>
 
 ---
 
 # 📌 Featured Projects
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🚀 Flair AI *(Private)* | AI-powered multilingual SaaS platform | Next.js, TypeScript |
-| 🏪 Multi-Tenant SaaS *(Private)* | Shopify-inspired SaaS architecture | Laravel, MySQL |
-| 🛒 Multi-Vendor E-commerce | Full e-commerce platform | MERN Stack |
-| 💼 Job Board Website | Job portal with authentication | Next.js |
-| 🍔 Food Ordering System | Online ordering platform | Next.js, Node.js |
+| Project | Description |
+|----------|-------------|
+| 🚀 **Flair AI** *(Private)* | AI-powered multilingual SaaS platform |
+| 🏪 **Multi-Tenant SaaS Platform** *(Private)* | Shopify-inspired SaaS architecture |
+| 🛒 **Multi-Vendor E-commerce** | MERN-based eCommerce platform |
+| 💼 **Job Board Website** | Job portal with authentication |
+| 🍔 **Food Ordering System** | Online ordering platform |
 
 ---
 
-# 📚 Currently Learning
+# 🎯 Current Focus
 
-- AI Product Engineering
-- Agentic AI
-- SaaS Architecture
-- Multi-Tenant Systems
-- System Design
-- Clean Software Architecture
+- 🚀 AI SaaS Development
+- 🏗️ Scalable Software Architecture
+- ⚡ Modern Frontend Engineering
+- ☁️ Multi-Tenant Systems
+- 🤖 AI Integration
+- 📚 Continuous Learning
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=AhsanMansoori&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AhsanMansoori&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanMansoori&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanMansoori&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -147,60 +171,64 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanMansoor
 
 <p align="center">
 
-<img
-src="https://streak-stats.demolab.com?user=AhsanMansoori&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=AhsanMansoori&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📊 Contribution Activity
 
 <p align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=AhsanMansoori&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhsanMansoori&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📚 Currently Exploring
 
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=AhsanMansoori&theme=algolia&no-frame=true&margin-w=15"/>
-
-</p>
+- Agentic AI
+- OpenRouter
+- AI Workflows
+- Clean Architecture
+- System Design
+- Product Engineering
 
 ---
 
 # 🎯 2026 Goals
 
 - 🚀 Launch Flair AI MVP
-- 🏪 Complete Multi-Tenant SaaS Platform
-- 🤖 Integrate AI into production applications
-- 📚 Deepen expertise in System Design
+- 🏪 Launch Multi-Tenant SaaS Platform
+- 🤖 Build production-ready AI applications
 - 🌍 Contribute to Open Source
+- 📚 Master System Design
 - 💼 Build impactful SaaS products
 
 ---
 
-# 📫 Connect With Me
+# 💡 Favorite Quote
+
+> *"First solve the problem. Then write the code."* — John Johnson
+
+---
+
+# 📫 Let's Connect
 
 <p align="center">
 
 <a href="mailto:ahsanmansoori906@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://YOUR-PORTFOLIO.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
 </a>
 
 </p>
@@ -209,6 +237,6 @@ src="https://github-profile-trophy.vercel.app/?username=AhsanMansoori&theme=algo
 
 <p align="center">
 
-⭐ Thanks for visiting my profile! I'm passionate about building scalable software, AI-powered products, and modern SaaS applications.
+⭐ If you enjoy my work, consider following my journey as I build AI-powered SaaS products and modern web applications.
 
 </p>
